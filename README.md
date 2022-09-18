@@ -1,6 +1,6 @@
 
 
-### v1.0.0 (18/09/2022):
+### v1.0.0 (18/09/2022)
 - Created the bot
 - Added welcome feature
 - Moderation commands (kick,ban,warn)
