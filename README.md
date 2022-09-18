@@ -7,8 +7,7 @@
 - User/server info commands
 - Logs to 2 channels (set in config.json)
 <details>
-           <summary>Older changelogs (Coming soon</summary>
-           [//]: #<p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+           <summary>Older changelogs (Coming soon...)</summary>
          </details>
 
 #### Need help? DM me on Discord at noahjs#0725
